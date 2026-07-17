@@ -21,7 +21,7 @@ np.str = str
 np.complex = complex
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model', '-m', type=str, default='IDFREE', help='name of models')
+    parser.add_argument('--model', '-m', type=str, default='ARS', help='name of models')
     parser.add_argument('--dataset', '-d', type=str, default='baby', help='name of datasets')
 
     config_dict = {
