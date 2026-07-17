@@ -16,9 +16,6 @@
   - [1. Data Preprocessing](#1-data-preprocessing)
   - [2. Model Training](#2-model-training)
   - [3. Evaluation](#3-evaluation)
-- [Results](#results)
-- [Reproduction Guide](#reproduction-guide)
-- [Citation](#citation)
 
 ---
 
