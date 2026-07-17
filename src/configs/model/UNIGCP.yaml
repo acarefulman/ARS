@@ -1,0 +1,11 @@
+# unigcp.yaml: Configuration for UniGCP model in MMRec framework
+
+embedding_size: [64]
+n_layers: [2]
+reg_weight: [0.0001]
+learning_rate: [0.001]
+batch_size: [256]
+device: cuda
+clip_model_name: ViT-B-32
+pretrained: laion2b_s34b_b79k
+hyper_parameters: ["embedding_size", "n_layers", "reg_weight"]
